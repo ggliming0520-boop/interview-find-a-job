@@ -1,0 +1,7 @@
+interface:
+  display_name: "Interview Find a Job"
+  short_description: "面向候选者的面试准备、模拟追问、复盘和回答优化助手。"
+  default_prompt: "Use $interview-find-a-job to help me prepare for an interview."
+
+policy:
+  allow_implicit_invocation: true
